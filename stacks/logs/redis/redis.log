@@ -1,0 +1,32 @@
+1816:C 08 Aug 2024 00:15:30.026 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1816:C 08 Aug 2024 00:15:30.026 # Redis version=5.0.7, bits=64, commit=00000000, modified=0, pid=1816, just started
+1816:C 08 Aug 2024 00:15:30.026 # Configuration loaded
+1816:M 08 Aug 2024 00:15:30.027 * Running mode=standalone, port=6379.
+1816:M 08 Aug 2024 00:15:30.027 # Server initialized
+1816:M 08 Aug 2024 00:15:30.027 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+1816:M 08 Aug 2024 00:15:30.027 * Ready to accept connections
+1816:M 08 Aug 2024 00:15:54.256 * 1 changes in 15 seconds. Saving...
+1816:M 08 Aug 2024 00:15:54.257 * Background saving started by pid 2336
+2336:C 08 Aug 2024 00:15:54.258 * DB saved on disk
+2336:C 08 Aug 2024 00:15:54.258 * RDB: 0 MB of memory used by copy-on-write
+1816:M 08 Aug 2024 00:15:54.358 * Background saving terminated with success
+1816:M 08 Aug 2024 00:16:10.053 * 1 changes in 15 seconds. Saving...
+1816:M 08 Aug 2024 00:16:10.054 * Background saving started by pid 2367
+2367:C 08 Aug 2024 00:16:10.059 * DB saved on disk
+2367:C 08 Aug 2024 00:16:10.060 * RDB: 0 MB of memory used by copy-on-write
+1816:M 08 Aug 2024 00:16:10.158 * Background saving terminated with success
+1816:M 08 Aug 2024 00:16:35.703 * 1 changes in 15 seconds. Saving...
+1816:M 08 Aug 2024 00:16:35.703 * Background saving started by pid 2392
+2392:C 08 Aug 2024 00:16:35.704 * DB saved on disk
+2392:C 08 Aug 2024 00:16:35.705 * RDB: 0 MB of memory used by copy-on-write
+1816:M 08 Aug 2024 00:16:35.805 * Background saving terminated with success
+1816:M 08 Aug 2024 00:16:51.087 * 1 changes in 15 seconds. Saving...
+1816:M 08 Aug 2024 00:16:51.088 * Background saving started by pid 2425
+2425:C 08 Aug 2024 00:16:51.092 * DB saved on disk
+2425:C 08 Aug 2024 00:16:51.093 * RDB: 0 MB of memory used by copy-on-write
+1816:M 08 Aug 2024 00:16:51.195 * Background saving terminated with success
+1816:M 08 Aug 2024 00:18:20.121 * 1 changes in 15 seconds. Saving...
+1816:M 08 Aug 2024 00:18:20.121 * Background saving started by pid 2490
+2490:C 08 Aug 2024 00:18:20.124 * DB saved on disk
+2490:C 08 Aug 2024 00:18:20.124 * RDB: 0 MB of memory used by copy-on-write
+1816:M 08 Aug 2024 00:18:20.222 * Background saving terminated with success
